@@ -55,9 +55,14 @@ Many organizations lack a clear and visual understanding of the factors contribu
 - Removed duplicate records  
 - Handled missing and inconsistent values  
 - Created age groups and salary slabs  
-- Transformed and processed data using Power Query  
+- Transformed and processed data using Power Query
 
-## 7. How to Use
+## 7. Conclusion
+This HR Analytics Dashboard demonstrates how data visualization can support strategic HR decisions.  
+By identifying attrition patterns and workforce trends, the dashboard helps organizations take proactive actions to improve employee retention, enhance performance, and optimize workforce productivity.  
+It highlights the importance of data-driven approaches in modern human resource management.
+
+## 8. How to Use
 1. Download the `HR_Analytics_Dashboard.pbix` file  
 2. Open it using **Power BI Desktop**  
 3. Interact with filters and visuals to explore insights  
